@@ -1,4 +1,5 @@
-site<html>
+
+<html>
 <style>
 p{font-family: arial;font-size: 14px;}
 h1{font-size: 50px;color: blue;}
@@ -15,6 +16,6 @@ h1{font-size: 50px;color: blue;}
 <p>  Meu hobby favorito é ler cartas de Tarot, jogar búzios e receber consultas com as entidades.     
 Antes da pandemia eu não tinha tanta sabedoria na área da espiritualidade, mas no inicio da  </p>
 
-<img src="C:/Users/Mirelly/Desktop/tarot.jpg">
+<img src="https://github.com/mirelly0209/tarot">
 
 <html>
