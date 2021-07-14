@@ -17,13 +17,14 @@ h1{font-size: 50px;color: blue;}
 <meta charset="utf-8">
 <h2>ESCOLA: Centro de ensino médio integrado do Cruzeiro</h2>
 <h3>Profs:André e Fabiano</h3>
-<h4>Aluna:Mirelly de Souza Rodrigues</h4>
+  <h4>Aluna:Mirelly de Souza Rodrigues</h4>
 <h5>Turma:2°B</h5>
 <h6>Curso: TI </h6>
-<p>meu primeiro site texto </p> 
+<p>Meu hobby favorito é ler cartas de Tarot.
+  Antes da pandemia eu não tinha tanta sabedoria na área da espiritualidade, mas no inicio da pandemia me vi  isolada  tendo q reinventar o meu mundo  com novos desafios a serem seguidos,tanto no campo material  como no espiritual.
+  A pandemia trouxe várias dificuldades, pois a sociedade teve que se manter isolada utilizando meios virtuais para quase tudo. Tudo mudou comércios,templos religiosos,esporte  e lazer.
+  Umas das minhas maiores  dificuldades foi ter que continuar com o meu desenvolvimento  mediúnico sozinha,pois a taromancia é complicada.</p>
 
-<p>  Meu hobby favorito é ler cartas de Tarot, jogar búzios e receber consultas com as entidades.     
-Antes da pandemia eu não tinha tanta sabedoria na área da espiritualidade, mas no inicio da  </p>
 
 <img src="https://user-images.githubusercontent.com/87449995/125698036-3d627727-7f18-4ca4-8a6a-9191a8838a28.jpg">
 
