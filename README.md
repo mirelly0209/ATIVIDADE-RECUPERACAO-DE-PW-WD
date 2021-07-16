@@ -22,7 +22,7 @@ h1{font-size: 50px;color: blue;}
 <h4>Aluna:Mirelly de Souza Rodrigues</h4>
 <h5>Turma:2°B</h5>
 <h6>Curso: TI </h6>
-<p>meu primeiro site texto </p> 
+
 
 <p>  Meu hobby favorito é ler cartas de Tarot.
   Antes da pandemia eu não tinha tanta sabedoria na área da espiritualidade, mas no inicio da pandemia me vi  isolada  tendo q reinventar o meu mundo  com novos desafios a serem seguidos,tanto no campo material  como no espiritual.
