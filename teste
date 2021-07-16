@@ -1,3 +1,4 @@
+
 <head>
 <body>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -151,14 +152,26 @@ h1{font-size: 50px;color: blue;}
 </td></tr></tbody></table>
 
 </style>
-
+<p>
 <body>
 
 <object width="425" height="350">
-<param name="movie" value="http://www.youtube.com/v/tIBxavsiHzM" />
-<embed src="http://www.youtube.com/v/tIBxavsiHzM" type="application/x-shockwave-flash" width="425" height="350" />
+<param name="movie" value="https://www.youtube.com/embed/jC13GfFo2Qs" />
+<embed src="https://www.youtube.com/embed/jC13GfFo2Qs" type="application/x-shockwave-flash" width="425" height="350" />
 </object>
+<p>
 
 </body>
 
-</html>
+
+
+
+
+
+<EMBED SRC="https://tutorialehtml.com/assets_tutorials/media/Loreena_Mckennitt_Snow_56bit.mp3" AUTOSTART= LOOP="TRUE">
+
+<img src="tarot.gif" width="180" height="180" alt="imagem" id="a1" />
+    </ul>
+
+
+<html>
