@@ -10,7 +10,7 @@
       
       
   
-< link  rel = " favicon " href = " favicon.png " />
+< link  rel = " favicon.png " href = " favicon.png " />
       
       
 </head>
