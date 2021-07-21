@@ -7,6 +7,15 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/favicon-16x16.png">
+<link rel="manifest" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/site.webmanifest">
+<link rel="mask-icon" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/browserconfig.xml">
+<meta name="theme-color" content="#000000">
 </head>
 </body>
 <body bgcolor="#8D2828"> </body>
