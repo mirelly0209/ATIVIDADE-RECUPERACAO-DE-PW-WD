@@ -7,12 +7,8 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff"
-      
-      
-  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
-<link rel="icon" type="image/png" href="/assets/images/favicon.png">
-      
-      
+      <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
+<link rel="icon" type="image/png" href="/assets/images/favicon.png">   
 </head>
 </body>
 <body bgcolor="#8D2828"> </body>
