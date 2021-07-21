@@ -159,17 +159,9 @@ h1{font-size: 50px;color: blue;}
 <embed src="https://www.youtube.com/embed/jC13GfFo2Qs" type="application/x-shockwave-flash" width="425" height="350" />
 </object>
 <p>
+<img src="tarot.gif" width="180" height="180" alt="imagem" id="a1" />
 
-<img src="tarot.gif" width="200" height="200" alt="imagem" id="a1" />
-  
-  
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#795bd5">
-<meta name="msapplication-TileColor" content="#603cba">
-<meta name="theme-color" content="#ffffff">
+
      
   <html> 
   
