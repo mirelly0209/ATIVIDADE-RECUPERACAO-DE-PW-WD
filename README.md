@@ -8,6 +8,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff"
       <link rel="icon" href="favicon.jpeg"/>
+      <link rel="icon" href="favicon.png"/>
 </head>
 </body>
 <body bgcolor="#8D2828"> </body>
