@@ -160,13 +160,12 @@ h1{font-size: 50px;color: blue;}
 </object>
 <p>
 
-</body>
+
 
 
 
 
 <img src="tarot.gif" width="180" height="180" alt="imagem" id="a1" />
-    </ul>
 
 <html>
   
