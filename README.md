@@ -9,9 +9,7 @@
 <meta name="theme-color" content="#ffffff"
       
       
-      
-    
-   < link  rel = " stylesheet " href = "https://mirelly0209.github.io/ATIVIDADE-RECUPERACAO-DE-PW-WD/ " />
+  
 < link  rel = " icon " href = " favicon.png " />
       
       
