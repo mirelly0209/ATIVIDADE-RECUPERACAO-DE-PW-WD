@@ -159,10 +159,10 @@ h1{font-size: 50px;color: blue;}
 <embed src="https://www.youtube.com/embed/jC13GfFo2Qs" type="application/x-shockwave-flash" width="425" height="350" />
 </object>
 <p>
-</body>
+
 
 <img src="tarot.gif" width="180" height="180" alt="imagem" id="a1" />
-
-<html>
+     
+  </html> 
   
   
