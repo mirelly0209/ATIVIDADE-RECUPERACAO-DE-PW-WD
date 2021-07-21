@@ -163,6 +163,6 @@ h1{font-size: 50px;color: blue;}
 <img src="tarot.gif" width="200" height="200" alt="imagem" id="a1" />
     </ul>
      
-  </html> 
+  <html> 
   
   
